@@ -17,7 +17,7 @@ We studied if disc-winged bats, Thyroptera tricolor, emit food calls. Specifical
 * [Statistical analysis and graphs](Analysis exp2.R)
 
 ## Status
-Project is: In revision at Animal Behaviour
+Project is: Accepted at Behavioral Ecology and Sociobiology
 
 ## Contact
 Created by [Gloriana_Chaverri](batcr.com/)
